@@ -14,7 +14,7 @@ This is a part of the Cyfrin Solidity Course, to learn basics of deploying, test
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
+git clone https://github.com/relliksan/foundry-fund-me-f23
 cd foundry-fund-me-f23
 forge build
 ```
